@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1686081806 source:d:\2023\2023-1\ada\grafos\cpp\grafos\main.cpp
+	<iostream>
+	"Graph.h"
+
+1686081478 d:\2023\2023-1\ada\grafos\cpp\grafos\graph.h
+	<vector>
+	<string>
+
+1686081806 source:d:\2023\2023-1\ada\grafos\cpp\grafos\graph.cpp
+	"Graph.h"
+	<iostream>
+	<fstream>
+
